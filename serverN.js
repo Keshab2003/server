@@ -13,4 +13,4 @@ http
 
 //http://localhost:8081
 
-//type this in a browser to know wheatger it is running or not
+//type this in a browser to know wheather it is running or not
