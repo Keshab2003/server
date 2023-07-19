@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Creating my first server using Node.js",
+  "main": "serverN.js",
+  "scripts": {
+    "start": "node serverN.js",
+    "runthis": "node serverN.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keshab2003/server.git"
+  },
+  "keywords": [
+    "Keshab",
+    "Chaudhary"
+  ],
+  "author": "Keshab Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keshab2003/server/issues"
+  },
+  "homepage": "https://github.com/Keshab2003/server#readme"
+}
